@@ -16,6 +16,7 @@ In C++, a string is an array of characters terminated by a null character ('\0')
 ## Algorithm:
 
 Sum of elements:
+
 Step 1: Start.
 
 Step 2: Declare an integer array x of size 6, integer variables i, sum, and avg.
