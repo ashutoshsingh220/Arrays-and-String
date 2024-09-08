@@ -45,6 +45,8 @@ Step 11: Print the average of the elements using the message "The average of ele
 Step 12: End.
 
 Reversing a string:
+
+
 Step 1: Start.
 
 Step 2: Declare a string variable a.
